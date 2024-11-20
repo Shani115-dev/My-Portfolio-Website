@@ -1,0 +1,138 @@
+@media (max-width: 1400px) {
+  
+}
+
+@media (max-width: 1231px) {
+  /* Custome Style */
+  h1 {
+    font-size: 4.375rem;
+  }
+
+  h2 {
+    font-size: 2.134rem;
+  }
+
+  h3 {
+    font-size: 1.3rem;
+  }
+
+  /* accordian */
+  /* about */
+}
+
+@media (max-width: 992px) {
+  /* custom style */
+  h1 {
+    font-size: 3.125rem;
+    line-height: 1.3;
+  }
+
+  h2 {
+    font-size: 1.875;
+  }
+
+  h3 {
+    font-size: 1.25rem;
+  }
+
+  a {
+    font-size: 1rem;
+  }
+
+  .icon-design {
+    width: 4.625rem;
+    height: 4.625rem;
+  }
+
+  /* accodian */
+  /* about */
+}
+
+@media (max-width: 767px) {
+  /* Custom styling */
+  h1 {
+    font-size: 1.875rem;
+  }
+
+  h2 {
+    font-size: 1.25rem;
+  }
+
+  h3 {
+    font-size: 1.125rem;
+  }
+
+  h5 {
+    font-size: 0.9375rem;
+  }
+
+  p {
+    font-size: 0.875rem;
+  }
+}
+
+@media (max-width: 576px) {
+  /*Custom Styling */
+  h5 {
+    /* font-size: 0.25rem; */
+    line-height: 1.5;
+    color: #adb5bd;
+  }
+  .margin {
+    margin-top: 25rem;
+  }
+  
+ 
+
+  .main_menu_wrapper .accordion-item {
+    background-color: transparent;
+    margin: 0 0 1.534rem;
+    width: 100%;
+  }
+  .testimonial_wrapper .profile-box img{
+    border-radius: .654rem 3.125rem;
+    padding-left: 4rem;
+  }
+  .resume_wrapper .year span {
+   
+    font-size: 1rem;
+    color: #ff451b;
+    border: 0.065rem solid #ff451b;
+    border-radius: 3.125rem;
+    padding: 5px 11px 5px;
+    margin-top: 13px;
+    margin-bottom: 1rem;
+  }
+  .banner_wrapper .myImage .myPortfolio .mySelf img {
+    height: 30vh;
+    margin-top: 4rem;
+  }
+  a {
+    font-size: 0.8125rem;
+  }
+
+  .main-btn {
+    padding: 0.53rem 0.65rem;
+    font-size: 0.8125rem;
+  }
+
+  .header-wrapper .navbar-brand img {
+    max-width: 6.75rem;
+  }
+
+  /* Banner styling */
+
+  .banner_wrapper .social-icons a img {
+    height: 1.125rem;
+    width: 1.125rem;
+  }
+  .banner_wrapper .myImage .myPortfolio .mySelf img {
+    height: 50vh;
+  }
+  
+  /* Resume */
+  /* testimonial */
+}
+
+@media (max-width: 400px) {
+}

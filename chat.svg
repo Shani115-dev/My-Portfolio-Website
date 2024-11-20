@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="75" height="75" fill="none" stroke="yellow" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Chat bubble -->
+  <path d="M21 15a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2H3a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2h3v4l4-4h11z"/>
+  
+  <!-- Eyes for chatbot -->
+  <circle cx="8" cy="10" r="1.5" fill="yellow"/>
+  <circle cx="16" cy="10" r="1.5" fill="yellow"/>
+  
+  <!-- Mouth -->
+  <path d="M10 14h4" stroke="yellow"/>
+</svg>

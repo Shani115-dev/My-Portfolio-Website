@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" height="75" width="75" fill="#FFD700">
+  <!-- Shopping Cart -->
+  <path d="M7 18c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm10 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm-12.19-3.59l1.66-7.59H20l-1.88 8.59H6.81zm11.9-9H7.28l-1-4H1v2h4.06l1.68 7.64L6 14h12v-2H7.62l.9-4h9.3l-1.81 8H19V5z"/>
+  
+  <!-- Percentage Tag -->
+  <g fill="#FF5252">
+    <circle cx="18" cy="6" r="3"/>
+    <text x="16.5" y="7" font-size="1.5" fill="white">%</text>
+  </g>
+</svg>
